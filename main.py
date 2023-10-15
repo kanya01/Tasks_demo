@@ -1,6 +1,6 @@
 import eel
 
-eel.innit('web')
+eel.init('web')
 
 @eel.expose
 def get_data():
